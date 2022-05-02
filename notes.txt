@@ -1,0 +1,9 @@
+1. self defined attribute, what is the usage for that??? 
+2. how to embed attribute in class??
+3. attributes: --> very usefule, built in attribute, obsolete, 
+self defined attributes, added to code, reflective programming, that is to say, the codes can examin, introspect and mofify
+its own structure and behavior without comprising/modifying/refactoring oringinal codes, but by adding attributes to its metadata. 
+
+
+4. vsdcode debug, breakpoint does not work 
+

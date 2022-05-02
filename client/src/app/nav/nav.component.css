@@ -1,0 +1,25 @@
+
+#left-nav {
+    justify-content: left;
+    padding-left: 180px;
+    width: 68%;
+}
+
+#navbar {
+    justify-content: space-between;
+    display: flex;
+    flex:1;
+}
+
+#loginfrom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-control .me-2 {
+    margin-right: 15px;
+}
+
+.btn .btn-outline-success {
+    margin-left: 15px;
+}
